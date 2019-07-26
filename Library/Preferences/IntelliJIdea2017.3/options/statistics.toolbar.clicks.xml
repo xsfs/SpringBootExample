@@ -1,0 +1,47 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CompileDirty@NavBarToolbar" count="2" />
+      <entry action="Debug@NavBarToolbar" count="127" />
+      <entry action="EvaluateExpression@DebuggerToolbar" count="107" />
+      <entry action="Maven.AddManagedFiles@Maven Navigator Toolbar" count="24" />
+      <entry action="Maven.DownloadAllGroupPopup@Maven Navigator Toolbar" count="4" />
+      <entry action="Maven.ExecuteGoal@Maven Navigator Toolbar" count="1" />
+      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="35" />
+      <entry action="Maven.ShowSettings@Maven Navigator Toolbar" count="9" />
+      <entry action="Maven.ToggleSkipTests@Maven Navigator Toolbar" count="1" />
+      <entry action="Maven.UpdateFolders@Maven Navigator Toolbar" count="7" />
+      <entry action="Rerun@DebuggerToolbar" count="10" />
+      <entry action="Rerun@RunnerToolbar" count="101" />
+      <entry action="Resume@DebuggerToolbar" count="363" />
+      <entry action="Run@NavBarToolbar" count="151" />
+      <entry action="ShowProjectStructureSettings@NavBarToolbar" count="4" />
+      <entry action="Stop@DebuggerToolbar" count="35" />
+      <entry action="Stop@NavBarToolbar" count="115" />
+      <entry action="Stop@RunnerToolbar" count="22" />
+      <entry action="Vcs.Log.IntelliSortChooser@Vcs.Log.Toolbar" count="3" />
+      <entry action="Vcs.UpdateProject@NavBarToolbar" count="3" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="3" />
+      <entry action="com.intellij.codeInspection.ui.CloseAction@CodeInspection" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="40" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="31" />
+      <entry action="com.intellij.find.SearchTextArea$ShowHistoryAction@unknown" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.AddOccurrenceAction@EditorToolbar" count="42" />
+      <entry action="com.intellij.find.editorHeaderActions.FindAllAction@EditorToolbar" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="3" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="14" />
+      <entry action="com.intellij.find.editorHeaderActions.RemoveOccurrenceAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.SelectAllAction@EditorToolbar" count="2" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="2" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$5@CompilerMessagesToolbar" count="5" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$RerunAction@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.ide.util.PackageChooserDialog$NewPackageAction@PackageChooserDialog" count="4" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@EditorToolbar" count="3" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryRootsComponent$1@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="9" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="13" />
+      <entry action="com.intellij.usages.impl.UsageViewImpl$CloseAction@UsageViewToolbar" count="1" />
+    </counts>
+  </component>
+</application>

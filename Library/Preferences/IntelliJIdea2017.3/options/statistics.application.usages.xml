@@ -1,0 +1,50 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="3" />
+      <entry feature="StripeButton[Version Control].shown" count="4" />
+      <entry feature="debugger.reload.classes" count="10" />
+      <entry feature="execute.Application.Coverage" count="1" />
+      <entry feature="execute.Application.Debug" count="75" />
+      <entry feature="execute.Application.Run" count="240" />
+      <entry feature="execute.JUnit.Debug" count="1" />
+      <entry feature="execute.JUnit.Run" count="13" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="90" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="81" />
+      <entry feature="git.branch.checkout.remote" count="3" />
+      <entry feature="git.branch.delete.local" count="1" />
+      <entry feature="git.branch.merge" count="5" />
+      <entry feature="git.branch.rename" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="6" />
+      <entry feature="ide.help.ideaInterface.run" count="1" />
+      <entry feature="ide.help.reference.dialogs.new.project.import.maven.page1" count="1" />
+      <entry feature="ide.settings.Appearance" count="7" />
+      <entry feature="ide.settings.Code Completion" count="1" />
+      <entry feature="ide.settings.Code Style" count="3" />
+      <entry feature="ide.settings.Color Scheme Font" count="1" />
+      <entry feature="ide.settings.Console Font" count="4" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Maven" count="9" />
+      <entry feature="ide.settings.Plugins" count="3" />
+      <entry feature="idea.caches.invalidated" count="6" />
+      <entry feature="ideaapp.started" count="71" />
+      <entry feature="project.view.pane.PackagesPane" count="3" />
+      <entry feature="project.view.pane.ProjectPane" count="5" />
+      <entry feature="project.view.pane.Scope.Problems" count="1" />
+      <entry feature="project.view.pane.Scope.Production" count="1" />
+      <entry feature="project.view.pane.Scope.Project Files" count="4" />
+      <entry feature="project.view.pane.Scope.Tests" count="1" />
+      <entry feature="spring.MVCRelatedFilesProvider.fromCode" count="2" />
+      <entry feature="terminal.mac" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Import" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="8" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="12" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="16" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
+    </counts>
+  </component>
+</application>

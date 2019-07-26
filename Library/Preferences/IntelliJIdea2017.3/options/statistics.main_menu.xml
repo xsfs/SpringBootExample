@@ -1,0 +1,38 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Build Project" count="3" />
+      <entry path="File -&gt; Import Settings..." count="3" />
+      <entry path="File -&gt; Invalidate Caches / Restart..." count="7" />
+      <entry path="File -&gt; New -&gt; Module from Existing Sources..." count="2" />
+      <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="2" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; Git" count="1" />
+      <entry path="File -&gt; New -&gt; Project..." count="8" />
+      <entry path="File -&gt; Open Recent -&gt; Manage Projects..." count="2" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="51" />
+      <entry path="File -&gt; Open URL..." count="1" />
+      <entry path="File -&gt; Open..." count="13" />
+      <entry path="File -&gt; Other Settings -&gt; Default Project Structure..." count="2" />
+      <entry path="File -&gt; Other Settings -&gt; Default Settings..." count="9" />
+      <entry path="File -&gt; Project Structure..." count="23" />
+      <entry path="File -&gt; Settings Repository…" count="2" />
+      <entry path="File -&gt; Sync Settings to JetBrains Account..." count="1" />
+      <entry path="Help -&gt; Edit Custom Properties..." count="1" />
+      <entry path="Help -&gt; Register..." count="2" />
+      <entry path="Run -&gt; Debug..." count="1" />
+      <entry path="Run -&gt; Run" count="8" />
+      <entry path="Tools -&gt; IDE Scripting Console" count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; Git" count="7" />
+      <entry path="VCS -&gt; Git -&gt; Merge Changes..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Pull..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Maven Projects" count="4" />
+      <entry path="View -&gt; Tool Windows -&gt; Project" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Structure" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; TODO" count="1" />
+      <entry path="Window -&gt; crawler" count="3" />
+      <entry path="Window -&gt; crawlerDevZhangZhuoHui" count="2" />
+    </counts>
+  </component>
+</application>
